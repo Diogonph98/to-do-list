@@ -1,2 +1,2 @@
-### Testing 1
-Testing 2
+### To-do list application
+In this repository I'll be developing a to-do list application. Stack still to be decided.
